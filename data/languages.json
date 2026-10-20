@@ -1,0 +1,16 @@
+{
+  "total_bytes": 804090914,
+  "classes": [
+    {"name": "C / C++ (compiled .so)", "files": 28, "bytes": 367380168, "kind": "binary"},
+    {"name": "Smali", "files": 23365, "bytes": 200929962, "kind": "bytecode-text"},
+    {"name": "Assets", "files": null, "bytes": 166734773, "kind": "data"},
+    {"name": "Java (JADX)", "files": 8157, "bytes": 35660063, "kind": "source-view"},
+    {"name": "DEX", "files": 3, "bytes": 28035860, "kind": "bytecode"},
+    {"name": "Resources", "files": 2046, "bytes": 5350382, "kind": "resource"}
+  ],
+  "smali": {
+    "smali": 70331607,
+    "smali_classes2": 69597366,
+    "smali_classes3": 61000989
+  }
+}

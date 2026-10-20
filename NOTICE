@@ -1,0 +1,21 @@
+NOTICE
+
+This repository contains independent reverse-engineering research and tooling.
+It does not distribute, and is not licensed to distribute, any of the following:
+
+  - Pokémon GO, Unity, Niantic, or PGSharp binaries
+  - decompiled or disassembled proprietary source
+  - native libraries (.so), DEX files, or APK containers
+  - game assets, images, audio, models, or data tables
+  - signing keys or activation/license material
+
+Pokémon, Pokémon GO, Niantic, Unity, and PGSharp are trademarks or registered
+trademarks of their respective owners. This project is not affiliated with,
+endorsed by, or sponsored by any of them.
+
+The decoded project referenced in the documentation is produced locally by the
+user from an APK the user is entitled to use, and remains subject to the
+rights of its owners.
+
+Nothing here is intended to enable circumvention of licensing, activation,
+anti-cheat, or other technical protection measures.

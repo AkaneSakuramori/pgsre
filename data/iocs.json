@@ -1,0 +1,27 @@
+{
+  "certificates": [
+    {
+      "subject": "CN=hela, OU=uw, O=uw, L=uw, ST=uw, C=uw",
+      "sha256": "E6:01:D7:E0:38:3F:0C:C1:E0:F0:A4:24:33:94:E4:2C:AF:BA:6E:7C:ED:F1:AF:37:7F:90:52:C3:A0:0A:46:A4",
+      "sha1": "69:FF:D0:B7:40:73:0C:71:E1:A5:F0:C0:2B:4C:E0:16:AA:B9:2E:51"
+    }
+  ],
+  "files": [
+    {"path": "lib/arm64-v8a/libmain.so", "sha256": "c3f93191436481b347fab8cb33113ea36cbf60744dccb9e99924788d7f403b4b", "soname": "libhela.so"},
+    {"path": "lib/arm64-v8a/libil2cpp.so", "sha256": "6b1e11619362ddd53f9dbcd7be1d4296bdec5dda27b9f742c16b8403359c25a0"},
+    {"path": "assets/bin/Data/Managed/Metadata/global-metadata.dat", "sha256": "f5961a8548256da287b4f79466a169c302b90ec59be7f6461e8e58b482c0fb0d"}
+  ],
+  "strings": [
+    "DobbySymbolResolver", "sethook", "unhook", "hook_sym_addr", "hook_sym_name",
+    "Duplicate hook", "LuaVersion: Ruby 5.1.5", "Hela.LoadedPlugin",
+    "Hela/SoLibraryLoader", "Hela/Mbgl-MapRenderer", "plg.enablespoof", "pgo.il2ready"
+  ],
+  "paths": ["/tmp/hela/lua/", "/data/local/tmp/hela/lua/test.lua", "/data/local/tmp/hela/lua/debug.lua"],
+  "urls": ["https://www.pgsharp.com/activation", "https://www.pgsharp.com/download64", "https://api.quago.io/v1/record"],
+  "resources": [
+    "hl_activate_dialog", "hl_settings_object_activate", "hl_floatmenu_",
+    "Hide PGSharp", "Please RESPECT cooldown rules to avoid softban.",
+    "The feed is limited (Trial/Free License).",
+    "Please upgrade to standard license to create/enable more filters."
+  ]
+}

@@ -1,0 +1,40 @@
+# Proprietary / large artifacts — intentionally not committed
+*.apk
+*.apk.*
+*.xapk
+*.apks
+*.so
+*.dex
+*.oat
+*.vdex
+*.art
+apktool/
+jadx/
+analysis/native-libs/
+analysis/*_strings.txt
+analysis/*.bin
+signed.apk
+unsigned.apk
+aligned.apk
+*.idsig
+
+# Signing material
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# Local decrypted dumps
+libmain_xor0d.bin
+libmain_xor0d_strings.txt
+libmain_decrypted_clean.txt
+libmain_decrypted_strings.txt
+dex_strings.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/

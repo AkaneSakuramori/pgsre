@@ -1,0 +1,33 @@
+{
+  "version": "Lua 5.1.5",
+  "banner": "LuaVersion: Ruby 5.1.5  Copyright (C) 1994-2018 Ruby.org, PUC-Rio",
+  "namespaces": {
+    "plg": ["run", "pause", "setspeed", "map", "float", "http", "joystart", "jostop", "randomwalk", "entergame", "enablespoof"],
+    "pgo": ["lua", "hook", "il2ready", "statector", "statees", "svcctor"],
+    "lua": ["spoof", "randomwalk"]
+  },
+  "globals": ["hela.login", "Hela.LoadedPlugin", "Hela.SoLibraryLoader"],
+  "paths": [
+    "/tmp/hela/lua/aes.lua",
+    "/tmp/hela/lua/base64.lua",
+    "/tmp/hela/lua/class.lua",
+    "/tmp/hela/lua/fifo.lua",
+    "/tmp/hela/lua/gamedump.lua",
+    "/tmp/hela/lua/global.lua",
+    "/tmp/hela/lua/init.lua",
+    "/tmp/hela/lua/jclass.lua",
+    "/tmp/hela/lua/json.lua",
+    "/tmp/hela/lua/localtest.lua",
+    "/tmp/hela/lua/location.lua",
+    "/tmp/hela/lua/md5.lua",
+    "/tmp/hela/lua/pgo.lua",
+    "/tmp/hela/lua/pgodump.lua",
+    "/tmp/hela/lua/plugin.lua",
+    "/tmp/hela/lua/reflect.lua",
+    "/tmp/hela/lua/uuid.lua",
+    "/tmp/hela/lua/test_old.lua",
+    "/tmp/hela/lua/templateindexs.lua",
+    "/data/local/tmp/hela/lua/test.lua",
+    "/data/local/tmp/hela/lua/debug.lua"
+  ]
+}

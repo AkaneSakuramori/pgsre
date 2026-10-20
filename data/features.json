@@ -1,0 +1,44 @@
+{
+  "catching": {
+    "auto_catch": ["autocatch", "Quick Catch", "hl_catch_caught", "_escaped", "_fled", "_missed"],
+    "auto_spin": ["autospin", "hl_aw_station"],
+    "throw_assist": ["enhancedThrowARPlus", "enhancedThrowCurve", "enhancedThrowExcellent", "enhancedThrowHit"],
+    "indicators": ["hl_curveball", "hl_excellent", "hl_enhanced_throw"],
+    "automation": ["autoDiscard", "autoTransfer", "autoFeed", "autoHatch"],
+    "snapshots": ["autoInventorySnapshot", "autoWildSnapshot"]
+  },
+  "movement": {
+    "mock_location": ["Spoofing Location", "hl_spoofing", "lua.spoof", "plg.enablespoof", "u_enable_spoof"],
+    "teleport": ["Teleport", "Tap to Walk/Teleport", "hl_teleport", "spoofto", "hl_mapbox_popup_teleport"],
+    "autowalk": ["AutoWalk", "hl_floatmenu_autowalk", "hl_aw_day", "hl_aw_week", "hl_aw_loop", "hl_aw_oneway", "hl_aw_outandback", "hl_aw_poi", "hl_aw_gym", "hl_aw_station"],
+    "speed": ["hl_speed_seek", "plg.setspeed", "u_walkspeed"],
+    "random_walk": ["lua.randomwalk", "plg.randomwalk", "u_spoof_runnable"],
+    "joystick": ["JoystickView_JV_", "plg.joystart", "plg.jostop"],
+    "routes": ["Auto-Generated GPX", "hl_autogenerate_gpx_pat", "Import GPX Failed"]
+  },
+  "feeds": {
+    "live_feeds": ["Feeds", "hl_feeds_cat_pokemon", "hl_feeds_cat_quest", "hl_feeds_cat_raid", "hl_feeds_cat_misc", "hl_feed_filter_"],
+    "quick_sniper": ["Quick Sniper", "hl_fastsnipe", "hl_feeds_item_fastsnipeFlag"],
+    "cooldown": ["Cooldown: %s", "hl_cooldown_timer", "MapPokestop_SetCooldownTime"],
+    "cooldown_history": ["Cooldown History", "hl_cdhist", "hl_cdhist_cat_pgslog"],
+    "softban": ["Please RESPECT cooldown rules to avoid softban.", "_hl_pgp_softban"]
+  },
+  "raid_rocket_gift": {
+    "rocket": ["Instant Beat Team Rocket", "instantRocket", "instantLeader"],
+    "ar_mapping": ["Instant ArMapping", "hl_armapping", "hl_arplus"],
+    "gifts": ["Gift Assistant", "GiftingRpcService_OpenGift", "GiftingRpcService_SendGift"]
+  },
+  "account_analysis": {
+    "accounts": ["hl_accounts_", "hl_account_item_name", "hl_account_item_lv", "hl_account_item_p_img"],
+    "iv_pvp": ["hl_ec_pvp_gl", "hl_ec_pvp_ul", "hl_ec_pvp_ml", "hl_eciv", "hl_ff_attr_iv", "hl_ffp_checkshiny"],
+    "map_overlay": ["hl_mapbox_popup_", "hl_mbmap_", "showMapAvatars"],
+    "stealth": ["Hide PGSharp", "hideRaidStatus", "hideTrainerName"]
+  },
+  "licensing": {
+    "activation": ["https://www.pgsharp.com/activation", "hl_activate_dialog", "hl_settings_object_activate"],
+    "trial": ["The feed is limited (Trial/Free License)."],
+    "tiers": ["Please upgrade to standard license to create/enable more filters.", "This feature is not available for %s license."],
+    "export": ["Your settings/feeds/favorites/license will be exported to a file..."],
+    "update": ["https://www.pgsharp.com/download64"]
+  }
+}

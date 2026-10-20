@@ -1,0 +1,44 @@
+{
+  "sample": {
+    "package": "com.nianticlabs.pokemongo",
+    "version_name": "0.433.0",
+    "version_code": "2026100702",
+    "abi": "arm64-v8a",
+    "apk_size": 210412021,
+    "apk_sha256": "80aa97f7ebdf04ecd972b82a2a4495f087331024487d77ed1b1c3c457e547315"
+  },
+  "files": {
+    "libmain.so": {
+      "size": 38312416,
+      "sha256": "c3f93191436481b347fab8cb33113ea36cbf60744dccb9e99924788d7f403b4b",
+      "soname": "libhela.so"
+    },
+    "libil2cpp.so": {
+      "size": 252381992,
+      "sha256": "6b1e11619362ddd53f9dbcd7be1d4296bdec5dda27b9f742c16b8403359c25a0"
+    },
+    "libunity.so": {
+      "sha256": "13595e05cfb73e3d429492029a1922037aa29a3f32baa773019a6b0ac0cc5085"
+    },
+    "global-metadata.dat": {
+      "size": 35873276,
+      "magic": "0xfab11baf",
+      "version": 39,
+      "sha256": "f5961a8548256da287b4f79466a169c302b90ec59be7f6461e8e58b482c0fb0d"
+    }
+  },
+  "certificate": {
+    "subject": "CN=hela, OU=uw, O=uw, L=uw, ST=uw, C=uw",
+    "sha256": "E6:01:D7:E0:38:3F:0C:C1:E0:F0:A4:24:33:94:E4:2C:AF:BA:6E:7C:ED:F1:AF:37:7F:90:52:C3:A0:0A:46:A4",
+    "sha1": "69:FF:D0:B7:40:73:0C:71:E1:A5:F0:C0:2B:4C:E0:16:AA:B9:2E:51",
+    "not_before": "2020-01-04",
+    "not_after": "2047-05-22",
+    "algorithm": "SHA256withRSA",
+    "schemes": ["v3"]
+  },
+  "rebuild": {
+    "keystore": "pgsharp-rebuild.jks",
+    "alias": "pgsharp",
+    "cert_sha256": "71e518472c0c15b7ea9168d8e71103eec7e3c1dbdd646b3da7be64d88872902b"
+  }
+}
